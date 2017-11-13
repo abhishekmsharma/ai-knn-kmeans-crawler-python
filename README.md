@@ -19,21 +19,21 @@ Kindly execute the program using the following steps:\
 files mentioned in the previous section.\
 \
 2\. Execute the following command:\
-**python abhishek\_sharma\_hw2.py -keywords \<keywords\> -k
+**python job\_search\_cli.py -keywords \<keywords\> -k
 \<value\_of\_k\>**\
 \
 *-keywords: Specifies the keywords for job search, separate each keyword
 by a space.\
 -k: Specifies the value of k*\
 \
-Example commands: **python abhishek\_sharma\_hw2.py -keywords python
+Example commands: **python job\_search\_cli.py -keywords python
 "machine learning" -k 3**\
 \
-**python abhishek\_sharma\_hw2.py -keywords sql san jose -k 3**\
+**python job\_search\_cli.py -keywords sql san jose -k 3**\
 \
 You may also run the following command to get more information about the
 command line arguments:\
-*python abhishek\_sharma\_hw2.py --help*\
+*python job\_search\_cli.py --help*\
 \
 **Note:** After displaying the results, the program gives option to do a
 new search, repeat the search, cluster the previous search, or exit.
