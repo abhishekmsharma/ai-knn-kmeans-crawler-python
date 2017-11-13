@@ -1,6 +1,4 @@
-Implementation of "Career and Job Center" in Python
-
-**Abount Program**
+**About Program**
 ==================================
 The program scrapes through the pages of Indeed, IEEE Job Search, and ACM Job Search and displays the most relevant jobs
 based on the keywords provided.\
